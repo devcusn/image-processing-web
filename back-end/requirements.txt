@@ -1,0 +1,7 @@
+rembg
+Pillow
+onnxruntime
+flask
+Flask-Cors
+numpy
+opencv-python
