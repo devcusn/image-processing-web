@@ -2,6 +2,8 @@
 
 This project is a web-based application designed for image processing tasks, consisting of separate backend and frontend components. Follow the steps below to set up and run the application locally.
 
+![Alt text](/app_design/img_1.png?raw=true "Title")
+
 ## Run Backend
 
 ```bash
