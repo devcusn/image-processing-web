@@ -1,5 +1,7 @@
+import Provider from "./providers";
+
 function App() {
-  return <></>;
+  return <Provider />;
 }
 
 export default App;
